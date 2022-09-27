@@ -6,3 +6,4 @@ Daftar Isi
 4. [Cara Membuat Links di Markdown](../tutorial-markdown/links.md)
 5. [Cara Menambahkan Gambar di Markdown](../tutorial-markdown/images.md)
 6. [Cara Menambahkan Kodingan di Markdown](../tutorial-markdown/kodingan.md)
+7. [Cara Membuat Footnotes Markdown](../tutorial-markdown/footer.md)
