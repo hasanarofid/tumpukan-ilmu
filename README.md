@@ -7,4 +7,4 @@ Tumpukan Ilmu
 
 Daftar Isi
 ======
-- [Tutorial Menulis Dokumentasi Menggunakan Markdown .md][../tutorial-markdown]
+- [Tutorial Menulis Dokumentasi Menggunakan Markdown .md](../tutorial-markdown)
