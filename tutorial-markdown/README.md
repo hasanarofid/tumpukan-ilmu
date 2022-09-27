@@ -9,3 +9,4 @@ Daftar Isi
 7. [Cara Membuat Footnotes Markdown](../tutorial-markdown/footer.md)
 8. [Cara Membuat Table di Markdown](../tutorial-markdown/table.md)
 9. [Cara Membuat Blackquotes di Markdown](../tutorial-markdown/blackquotes.md)
+10. [Cara Membuat Horizontal Rules di Markdown](../tutorial-markdown/horizontalrules.md)
