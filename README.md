@@ -7,4 +7,5 @@ Tumpukan Ilmu
 
 Daftar Isi
 ======
-- [Tutorial Menulis Dokumentasi Menggunakan Markdown .md](../tutorial-markdown)
+https://github.com/RSDS-SOETOMO/tumpukan-ilmu/tree/master/tutorial-markdown
+- [Tutorial Menulis Dokumentasi Menggunakan Markdown .md](../tutorial-markdown/README.md)
